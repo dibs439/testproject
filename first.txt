@@ -1,1 +1,2 @@
-Hello this is lne 1 from ber.
+Hello this is line 1 from Bera.
+Second line.
